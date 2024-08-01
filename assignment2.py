@@ -25,7 +25,7 @@ def rearranging_string(s: str) -> str:
     rearranged_str = ''.join(rearranged_str)
     # If the rearranged string is not of the same length as the input string, it's not possible to rearrange
     if len(rearranged_str) != len(s):
-        return "Not possible"
+        return ""
     
     return rearranged_str
 
