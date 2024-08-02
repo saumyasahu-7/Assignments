@@ -1,4 +1,4 @@
-# LRUCache Usage Instructions
+# LRUCache class explanation
 
 This guide demonstrates the working of `LRUCache` class.
 
