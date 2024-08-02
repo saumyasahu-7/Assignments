@@ -1,6 +1,6 @@
 # LRUCache Usage Instructions
 
-This guide demonstrates how to use the `LRUCache` class from the terminal.
+This guide demonstrates the working of `LRUCache` class.
 
 ## Explanation for LRUCache Class
 
